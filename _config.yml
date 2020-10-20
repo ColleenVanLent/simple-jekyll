@@ -5,4 +5,7 @@ description: >
 baseurl: "/simple-jekyll"
 github_username:  colleenvanlent
 
+# Build settings
+markdown: kramdown
+
 
